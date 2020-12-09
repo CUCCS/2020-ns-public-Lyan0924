@@ -4,3 +4,4 @@
 + [实验五：基于 Scapy 编写端口扫描器](https://github.com/CUCCS/2020-ns-public-Lyan0924/tree/exp5)
 + [实验七：Web 应用漏洞攻防](https://github.com/CUCCS/2020-ns-public-Lyan0924/tree/exp7)
 + [实验九：入侵检测](https://github.com/CUCCS/2020-ns-public-Lyan0924/tree/exp9)
++ [实验十一：常见蜜罐体验和探索](https://github.com/CUCCS/2020-ns-public-Lyan0924/tree/exp11)
